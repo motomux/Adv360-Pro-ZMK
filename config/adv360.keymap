@@ -60,9 +60,9 @@
         layer_fn {
             bindings = <
  &kp F1  &kp F1  &kp F2         &kp F3            &kp F4  &kp F5            &tog 1        &mo 3           &kp F6        &kp F7        &kp F8        &kp F9       &kp F10        &kp F11
- &trans  &trans  &trans       &kp LPAR          &kp RPAR  &trans             &none  &kp PAGE_UP  &kp K_VOLUME_UP  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9     &kp SLASH        &kp F12
- &trans  &trans  &trans       &kp LBKT          &kp RBKT  &trans             &none       &trans           &trans                                    &trans      &kp BSPC  &kp PAGE_DOWN  &kp K_VOLUME_DOWN  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp ASTRK  &trans
- &trans  &trans  &trans  &kp LESS_THAN  &kp GREATER_THAN  &trans             &none        &none           &trans         &none         &none        &trans         &none          &none         &kp K_MUTE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS  &trans
+ &trans  &trans  &trans       &kp LPAR          &kp RPAR  &trans             &none  &kp PAGE_UP  &kp C_VOLUME_UP  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9     &kp SLASH        &kp F12
+ &trans  &trans  &trans       &kp LBKT          &kp RBKT  &trans             &none       &trans           &trans                                    &trans      &kp BSPC  &kp PAGE_DOWN  &kp C_VOLUME_DOWN  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp ASTRK  &trans
+ &trans  &trans  &trans  &kp LESS_THAN  &kp GREATER_THAN  &trans             &none        &none           &trans         &none         &none        &trans         &none          &none         &kp C_MUTE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS  &trans
  &trans  &trans  &trans         &trans            &trans  &trans            &trans       &trans           &trans     &kp ENTER        &trans  &kp NUMBER_0  &kp NUMBER_0        &kp DOT           &kp PLUS        &trans
             >;
         };
